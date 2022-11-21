@@ -518,42 +518,33 @@ header {
     padding-top: 10%;
   }
   .badge1{
-      margin-left:150px;
+      margin-left:140px;
       font-family: "montserrat", sans-serif;
-      color: black;
-      font-size: 1.5vw;
-      
-      
-      
+      color: #777b7e;
+      font-size: 15px;
   }
   
   .badge2{
       
-      margin-left: 160px;
+      margin-left: 140px;
       font-family: "montserrat", sans-serif;
-      color: black;
-      font-size: 1.5vw;
+      color: #777b7e;
+      font-size: 15px;
       display: inline-flex;
   }
   .badge3{
     
-    margin-left: 160px;
-   
+    margin-left: 140px;
     font-family: "montserrat", sans-serif;
-    color: black;
-    font-size: 1.5vw;
-    
-    
-
+    color: #777b7e;
+    font-size: 15px;
   }
   .badge4{
-    
-    margin-left: 170px;
+    float: inherit;
+    margin-left: 140px;
     font-family: "montserrat", sans-serif;
-    color: black;
-    font-size: 1.5vw;
-    
-
+    color: #777b7e;
+    font-size: 15px;
   }
   
   
@@ -580,7 +571,6 @@ header {
   .text1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: absolute;
-   
     transform: translate(-50%, -50%);
     justify-content: center;  
     margin: auto;
@@ -593,10 +583,11 @@ header {
 	border-radius: 100px;
 	display: inline-block;
 	transition: all 0.3s ease 0s;
-    font-size: 1.7vw;
+    font-size: 15px;
     padding: 14px 40px;
     transition: .4s;
     left:50%;
+    margin-top: 0px;
   }
   .text1:hover{
 	color: #404040 !important;
@@ -625,11 +616,11 @@ text-transform: uppercase;
 border-radius: 100px;
 display: inline-block;
 transition: all 0.3s ease 0s;
-  font-size: 1.7vw;
+  font-size: 15px;
   padding: 14px 40px;
   transition: .4s;
   left:50%;
-  
+  margin-top: 0px;
 }
 .text3:hover{
 color: #404040 !important;
@@ -648,7 +639,7 @@ transition: all 0.3s ease 0s;
     transform: translate(-50%, -50%);
     align-items: center;
     font-family: "montserrat", sans-serif;
-    font-size: 2vw;
+    font-size: 15px;
     color: black;
     opacity: 0.75;
     
@@ -659,7 +650,7 @@ transition: all 0.3s ease 0s;
   transform: translate(-50%, -50%);
   align-items: center;
   font-family: "montserrat", sans-serif;
-  font-size: 2vw;
+  font-size: 15px;
   color: black;
   opacity: 0.75;
   
@@ -688,10 +679,10 @@ transition: all 0.3s ease 0s;
     margin: 0 auto;
 }
 .m{
-    margin-left: 45%;
+   text-align: center;
     font-family: "montserrat", sans-serif;
     color: #777b7e;
-    font-size: 1vw;
+    font-size: 15px;
 }
 .img7{
     text-align: justify;
@@ -702,10 +693,10 @@ transition: all 0.3s ease 0s;
     margin: 0 auto;
 }
 .m1{
-    margin-left:43%;
+    text-align: center;
     font-family: "montserrat", sans-serif;
     color: #777b7e;
-    font-size: 1vw;
+    font-size: 15px;
 }
 .img5:hover{
     transform: scale(1.1);
